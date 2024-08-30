@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>e02321661b0e0a9477c7cb7b234bcbfe</owner>
+        <policy_name>AutoGen-scope-x_1323769_newwishl-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 11:29:05</sys_created_on>
+        <sys_id>6a0b4c1a8358d2101312f6d6feaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="newwishlist" source="x_1323769_newwishl">d7d748168358d2101312f6d6feaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="newwishlist">d7d748168358d2101312f6d6feaad3f9</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_6a0b4c1a8358d2101312f6d6feaad365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 11:29:05</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="newwishlist">d7d748168358d2101312f6d6feaad3f9</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
